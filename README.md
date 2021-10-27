@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 👯 Espero colaborar com projetos em equipe e otimizar meu conhecimento 🤩
 - 💬 Me pergunte sobre meus conhecimentos em Java e outras linguagens 🤔
 - 📫 Contate-me por email: kaique.p.leite@gmail.com ✉️
+
+  #OpenToWork
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
