@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Hoje eu procuro uma vaga de Desenvolvedor Java Junior  👨‍💻
+- 🔭 Trabalho como Desenvolvedor Java Junior, Web, e ferramentas AmazonWebService AWS  👨‍💻
 - 🌱 Atualmente estudo Análise e Desenvolvimento de Sistemas e Java Avançado 🖥️ ☕
 - 👯 Espero colaborar com projetos em equipe e otimizar meu conhecimento 🤩
 - 💬 Me pergunte sobre meus conhecimentos em Java e outras linguagens 🤔
