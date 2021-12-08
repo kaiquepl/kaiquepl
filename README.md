@@ -1,4 +1,4 @@
-### Olá! Eu sou o Kaique P. Leite 
+### Olá! Eu sou o Kaique P. Leite
 
 <!--
 **kaiquepl/kaiquepl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 Contate-me por email: kaique.p.leite@gmail.com ✉️
 
   #OpenToWork
+  
+  ```
+  Please don't forget to 'Star' in projects under development. ThankYou!
+  ```
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
