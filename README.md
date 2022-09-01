@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Trabalho como Desenvolvedor Java Junior, Web, e ferramentas AmazonWebService AWS  👨‍💻
+- 🔭 Trabalhei como Desenvolvedor Java Junior, Web, e ferramentas AmazonWebService AWS. Atualmente sou Cyber-atleta e estudo o mercado das criptomoedas e Desenvolvimento de Sistemas com Java.  👨‍💻
 - 🌱 Atualmente estudo Análise e Desenvolvimento de Sistemas e Java Avançado 🖥️ ☕
 - 👯 Espero colaborar com projetos em equipe e otimizar meu conhecimento 🤩
 - 💬 Me pergunte sobre meus conhecimentos em Java e outras linguagens 🤔
